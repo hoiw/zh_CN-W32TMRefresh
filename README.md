@@ -17,7 +17,6 @@ zh-CN-W32TMRefresh
 
 Q&A
 =================
-***
 Q:为什么我要导入注册表?  
 A:用于取消Windows自带的对时偏移限制  
 ***
@@ -26,9 +25,7 @@ A:可以. NtpTimeRefreshLauncher.bat用于静默启动NtpTimeRefresh.bat,直接�
 ***
 Q:这个脚本带有病毒吗?  
 A:听说有.  
-***
 
-***
 应用场景:  
 =================
 BIOS电池没电的希沃一体机.
