@@ -26,8 +26,8 @@ Q:为什么我要导入注册表?
 A:用于取消Windows自带的对时偏移限制  
 -----------------
 ***
-##Q:我能直接添加NtpTimeRefresh.bat吗?NtpTimeRefreshLauncher.bat有什么用?  
-##A:可以. NtpTimeRefreshLauncher.bat用于静默启动NtpTimeRefresh.bat,直接添加时NtpTimeRefresh.bat到启动项时对时过程中的控制台不会最小化到后台.  
+Q:我能直接添加NtpTimeRefresh.bat吗?NtpTimeRefreshLauncher.bat有什么用?  
+A:可以. NtpTimeRefreshLauncher.bat用于静默启动NtpTimeRefresh.bat,直接添加时NtpTimeRefresh.bat到启动项时对时过程中的控制台不会最小化到后台.  
 -----------------
 ***
 Q:这个脚本带有病毒吗?  
